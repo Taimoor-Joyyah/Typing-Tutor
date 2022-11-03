@@ -1,8 +1,8 @@
-/*
-FA21-BSE-134 Muhammad Taimoor
-FA21-BSE-105 Tabarak Sohail
-FA21-BSE-137 Fahad Ali
-*/
+
+
+
+
+
 
 #include <iostream>
 #include <cstdlib>
